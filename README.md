@@ -1,9 +1,9 @@
 # **To Do List**     ->  C#   -     ASP.NET  :spiral_notepad: 
 
-Desafio de Projeto C# PRO  <-
+Desafio de Projeto C# PRO  <--
 
 ## Desafio de projeto
-Neste projeto foram utilizados conhecimentos adquiridos no módulo de API e Entity Framework, da trilha .NET da DIO.
+Neste projeto foram utilizados conhecimentos adquiridos no módulo de API e Entity Framework, da trilha .NET da DIO. <--
 Agradecimentos ao professor do curso e a toda equipe DIO.
 
 ## Contexto
