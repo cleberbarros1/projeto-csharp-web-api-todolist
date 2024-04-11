@@ -2,8 +2,6 @@
 
 Desafio de Projeto C# PRO 
 
-
-
 ## Desafio de projeto
 Neste projeto foram utilizados conhecimentos adquiridos no módulo de API e Entity Framework, da trilha .NET da DIO.
 Agradecimentos ao professor do curso e a toda equipe DIO.
